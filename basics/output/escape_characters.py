@@ -1,0 +1,5 @@
+print("\n Displays a new line")
+print("\t Displays a tub space")
+print("\\ Displays a backslash")
+print("\" Displays double quote")
+print("\" Displays single quote")
